@@ -10,9 +10,9 @@ We're always happy to help new developers get started
 
 Gravity bridge has three major components
 
-[The Gravity bridge Solidity](https://github.com/Gravity-Bridge/Gravity-Bridge/tree/main/solidity) and associated tooling. This requires NodeJs
-[The Gravity bridge Cosmos Module and test chain](https://github.com/Gravity-Bridge/Gravity-Bridge/tree/main/module). this requires Go.
-[The Gravity bridge tools](https://github.com/Gravity-Bridge/Gravity-Bridge/tree/main/orchestrator) these require Rust.
+[The Gravity bridge Solidity](https://github.com/Gravity-Bridge/Gravity-Bridge/tree/main/solidity) and associated tooling requires NodeJs.
+[The Gravity bridge Cosmos Module and test chain](https://github.com/Gravity-Bridge/Gravity-Bridge/tree/main/module) requires Go.
+[The Gravity bridge tools](https://github.com/Gravity-Bridge/Gravity-Bridge/tree/main/orchestrator) require Rust.
 
 ### Installing Go
 
